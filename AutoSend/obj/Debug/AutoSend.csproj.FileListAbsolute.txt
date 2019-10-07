@@ -1,0 +1,11 @@
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\bin\Debug\AutoSend.exe.config
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\bin\Debug\AutoSend.exe
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\bin\Debug\AutoSend.pdb
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.csprojAssemblyReference.cache
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.Form1.resources
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.Properties.Resources.resources
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.csproj.GenerateResource.cache
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.csproj.CoreCompileInputs.cache
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.exe
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.pdb
+C:\Users\Levotreami\source\repos\AutoSend\AutoSend\obj\Debug\AutoSend.csproj.ResolveComReference.cache
